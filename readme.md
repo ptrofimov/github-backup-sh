@@ -1,6 +1,11 @@
 # github-backup-sh
 
-Simple shell script to backup all GitHub repos for specified user.
+*Simple shell script to backup all GitHub repos for specified user*
+
+Well, there are many solutions, which will not only backup your repositories
+but also prepare a pizza for you and clean after itself.
+Here it is very simple Bash-written script to do this task easily
+without any questions in one go. Nothing more.
 
 Just run:
 
