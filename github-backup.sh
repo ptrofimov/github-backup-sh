@@ -6,6 +6,8 @@
 # @author Petr Trofimov <petrofimov@yandex.ru>
 # @author Federico Mestrone <fmestrone@gmail.com>
 #
+# pointer for future development https://gist.github.com/rodw/3073987 to back up GitHub Wiki
+#
 
 function echo_usage
 {
